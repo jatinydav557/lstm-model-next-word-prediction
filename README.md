@@ -1,9 +1,4 @@
-I cannot access the content of the uploaded files (IMG\_6288.HEIC, IMG\_6282.HEIC, IMG\_6284.HEIC, IMG\_6283.HEIC, IMG\_6286.HEIC, IMG\_6289.HEIC, IMG\_6281.HEIC, IMG\_6280.HEIC, IMG\_6287.HEIC) as they are empty.
-
-However, I have enough information from the provided code snippets (the notebook content and the Streamlit app code) to create a focused README.
-
-Here's a focused GitHub README for your Next Word Prediction project:
-
+🔗 👉 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=eJ1H5GUIVL4&list=PLe-YIIlt-fbMg0B4DsrA8Xa2kgRv_pqA1&index=2&ab_channel=Jatin)**
 -----
 
 # 📖 Next Word Prediction using LSTM
@@ -168,7 +163,7 @@ Follow these steps to get the Next Word Predictor up and running on your local m
 
 ## 🤝 Credits
 
-  * [Your Name/Organization Here]
+  * [Jatin Yadav]
   * [TensorFlow](https://www.tensorflow.org/)
   * [Streamlit](https://streamlit.io/)
   * [Numpy](https://numpy.org/)
@@ -179,8 +174,8 @@ Follow these steps to get the Next Word Predictor up and running on your local m
 
 ## 🙋‍♂️ Let's Connect
 
-  * **💼 LinkedIn:** [Your LinkedIn Profile URL]
-  * **📦 GitHub:** [Your GitHub Profile URL]
-  * **📬 Email:** your@email.com
-
-Made with ❤️ by an AI enthusiast who transforms ML, NLP, DL, GenAI, and MLOps concepts into practical, impactful solutions.
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
